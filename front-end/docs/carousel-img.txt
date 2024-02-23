@@ -1,0 +1,1 @@
+carousel img import width*height:1900*650px

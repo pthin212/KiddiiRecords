@@ -1,0 +1,13 @@
+.custom-container {
+    width:95% !important;
+    max-width: 1800px !important; 
+}
+.b-font {
+	/* font-family: 'Space Mono', monospace; */
+	font-family: 'Kanit', sans-serif;
+}
+.flex-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

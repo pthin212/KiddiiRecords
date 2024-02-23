@@ -1,0 +1,19 @@
+.cre-edi-header {
+    font-family: 'Kanit', sans-serif !important;
+    line-height: 16px;
+}
+.cre-edi-header hr{
+    width: 30%;
+    border-top: 2px solid black;
+}
+.cre-edi-header b{
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+.cre-edi-header small{
+    font-size: 13px;
+    padding: 0px;
+    margin: 0px;
+    font-style: italic;
+}

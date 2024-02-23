@@ -1,0 +1,37 @@
+.be-header-background {
+    background-color: black;
+}
+.flex-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-div-nalign-r {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.flex-div-nalign-l {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.lmsc {
+    background-color: black;
+    font-family: 'Kanit', sans-serif;
+}
+.logo01 {
+    /* width: 60%;
+    height: auto; */
+    height: auto;
+    width: 12rem;
+}
+.xl-lower-brandbar{
+    display: flex;
+    height: 200px;
+}
+.cartuser1 {
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}

@@ -1,0 +1,43 @@
+.em-2 a{
+    font-family: 'Space Mono', monospace;
+    font-size: larger;
+    color: black;
+}
+.maintittle-1
+{
+    background-color: #81847d;
+    font-family: 'Space Mono', monospace;
+    height: 130px;
+    color: white;
+}
+.maintittle-1 h1
+{
+    text-transform: uppercase;
+}
+
+.menutype1{
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    border: 1px solid black;
+    margin-top: 15px;
+}
+
+.menutype1 ul li{
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+}
+
+.menutype1 ul li:hover ul {
+    display: block;
+    position: absolute;
+    z-index: 1;
+}
+
+.menutype1 ul li a{
+    color: black;
+}
+
+.pagination li a{
+    color: black;
+}

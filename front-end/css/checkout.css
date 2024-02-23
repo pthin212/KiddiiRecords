@@ -1,0 +1,13 @@
+.blackb{
+    font-family: 'Space Mono', monospace;
+    color: black;
+    font-weight: bold;
+}
+.hr-checkout{
+    margin: 0px;  
+    padding: 0px;
+    border-top: 2px solid black;
+}
+.info-btn-custom{
+    width: 100% !important;
+}

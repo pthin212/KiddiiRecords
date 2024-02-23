@@ -1,0 +1,14 @@
+.delete-cart a{
+    text-decoration: none;
+    color: gray;
+    font-size: larger;
+    font-weight: bold;
+}
+.delete-cart a:hover{
+    color: black !important;
+    cursor: pointer;
+}
+.empty-cart{
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.notemain{
+    font-size:x-large;
+    font-weight: bold;
+    font-family: 'Space Mono', monospace;
+    color:black
+}
+.note1{
+    font-size: small;
+    font-style: italic;
+    font-family: 'Kanit', sans-serif;
+    color: black;
+}

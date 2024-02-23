@@ -1,0 +1,36 @@
+.hr1-copy{
+    margin: 15px 0px 15px 0px;  
+    padding: 0px;
+    border-width: 3px;
+    border-top: 3px solid black;
+}
+.notemain{
+    font-size:x-large;
+    font-weight: bold;
+    font-family: 'Space Mono', monospace;
+    color:black
+}
+.note1{
+    font-size: small;
+    font-style: italic;
+    font-family: 'Kanit', sans-serif;
+    color: black;
+}
+.login-area{
+    width: 80vw !important;
+    border: 4px dashed black;
+    margin-left: 10vw !important;
+    margin-top: 80px !important;
+    background-color: white !important;
+}
+.register-area{
+    width: 80vw !important;
+    border: 4px dashed black;
+    margin-left: 10vw !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    background-color: white !important;
+}
+body{
+    background-color: #81847d !important;
+}

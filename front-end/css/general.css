@@ -1,0 +1,35 @@
+/* div{
+    border: 1px solid red;
+} */
+.custom-container {
+    width:95% !important;
+    max-width: 1400px !important; 
+}
+.extra-menu{
+    background-color: #b9c1b9;
+    height: 32px;
+    font-family: 'Kanit', sans-serif;
+}
+.extra-menu a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+.em-main{
+    color: gray !important;
+}
+.hr1-copy{
+    margin: 15px 0px 15px 0px;  
+    padding: 0px;
+    border-width: 3px;
+    border-top: 3px solid black;
+}
+.imgthanhtoan{
+    width: 90px;
+    height: auto;
+}
+
+.card{
+    cursor: pointer !important;
+}

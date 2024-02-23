@@ -1,0 +1,16 @@
+.font-main{
+    font-family: 'Space Mono' !important;
+}
+.font-bold{
+    font-weight: bold;
+}
+.font-not-bold{
+    font-weight: normal !important;
+}
+.pdshare a{
+    color: black;
+}
+.btn-addcart{
+    width: 70%;
+    background-color: #41474a !important;
+}

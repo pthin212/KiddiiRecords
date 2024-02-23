@@ -1,0 +1,19 @@
+.limit-mota {
+	max-width: 80px;
+	white-space: nowrap; /* Ngăn ngừng xuống dòng tự động */
+  	overflow: hidden; /* Ẩn nội dung vượt khỏi khung hình */
+  	text-overflow: ellipsis; /* Hiển thị thành "..." */
+}
+.sp_hinhdaidien {
+	width: 120px;
+}
+.add-btn {
+	width: 100% !important;
+}
+.add-btn a{
+	color: black;
+}
+.add-btn:hover a{
+	color: white;
+	text-decoration: none;
+}
